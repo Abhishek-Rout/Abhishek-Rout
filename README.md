@@ -1,3 +1,10 @@
+
+![WhatsApp Image 2020-09-07 at 2 16 32 PM](https://user-images.githubusercontent.com/64718836/92372981-5161db00-f11b-11ea-8092-1b4ef99678d3.jpeg)
+
+<br/>
+<br/>
+<br/>
+
 ## Hi there, I'm [Abhishek Rout!](http://abhishek-rout.github.io/) 👋
 
 
@@ -29,12 +36,9 @@
 </a>
 
 <br />
+<br />
+<br />
 
-![WhatsApp Image 2020-09-07 at 2 16 32 PM](https://user-images.githubusercontent.com/64718836/92372981-5161db00-f11b-11ea-8092-1b4ef99678d3.jpeg)
-
-<br/>
-<br/>
-<br/>
 👨‍🎓 I am Abhishek Rout, currently embarking on my B.E. journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br/>
 🌱 I’m currently learning MERN, Machine Learning, A.I. , Competitive Coding.<br />
 💻 I'm a full-stack web developer, 💻 Data Science enthusiast, 📱Android enthusiast.<br/>
