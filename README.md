@@ -42,6 +42,7 @@
 ![Badge](https://cp-logo.vercel.app/codeforces/abhishek_rout)
 ![Badge](https://cp-logo.vercel.app/leetcode/abhishek_rout)
 ![Badge](https://cp-logo.vercel.app/hackerrank/abhishek_r_9690)
+
 <a href="https://leetcode.com/abhishek_rout/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -51,7 +52,7 @@
 <a href="https://codeforces.com/profile/abhishek_rout">
   <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://codeforces.com/profile/abhishek_r_9690">
+<a href="https://hackerrank.com/profile/abhishek_r_9690">
   <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <!--
