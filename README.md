@@ -41,7 +41,7 @@
 <a href="https://www.codechef.com/users/abhishek_rout">
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://codeforces.com/profile/kothariji">
+<a href="https://codeforces.com/profile/abhishek_rout">
   <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 <a href="https://codeforces.com/profile/abhishek_r_9690">
