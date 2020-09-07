@@ -12,7 +12,7 @@
 <a href="https://github.com/Abhishek-Rout">
   <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="abhishek.r.9690@gmail.com">
+<a href="https://www.abhishek.r.9690@gmail.com">
   <img align="left" alt="Abhishek's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/Abhishek_Rout">
