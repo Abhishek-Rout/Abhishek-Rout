@@ -2,8 +2,6 @@
 ![WhatsApp Image 2020-09-07 at 2 16 32 PM](https://user-images.githubusercontent.com/64718836/92372981-5161db00-f11b-11ea-8092-1b4ef99678d3.jpeg)
 
 <br/>
-<br/>
-<br/>
 
 ## Hi there, I'm [Abhishek Rout!](http://abhishek-rout.github.io/) 👋
 
