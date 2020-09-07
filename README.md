@@ -38,6 +38,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&show_icons=true&hide_border=true)
 
 
+![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
+![Badge](https://cp-logo.vercel.app/codeforces/abhishek_rout)
+![Badge](https://cp-logo.vercel.app/leetcode/abhishek_rout)
+![Badge](https://cp-logo.vercel.app/hackerrank/abhishek_r_9690)
 <a href="https://leetcode.com/abhishek_rout/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
