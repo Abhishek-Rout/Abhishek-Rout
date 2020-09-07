@@ -23,12 +23,17 @@
 <br/>
 <br/>
 👨‍🎓I am Abhishek Rout, currently embarking on my B.E. journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br/>
-💻I am a **full-stack web developer** as well as an 📱**Android** enthusiast.<br/>
-🏆🥇**6-star⭐️** Problem Solver at HackerRank and I am **2-star⭐️** coder at Codechef.  <br/>
-📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br/>
+💻I am a full-stack web developer, 💻 Data Science enthusiast, 📱Android enthusiast.<br/>
+🏆🥇 6-star⭐️ Problem Solver at HackerRank and I am 2-star⭐️ coder at Codechef.  <br/>
+📝✏️I write tech affiliated articles on Medium and GeeksForGeeks. <br/>
 💬 Ask me about anything.<br/>
 😄 Pronouns: He/His.
 🙌 <br />
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&show_icons=true&hide_border=true)
+
 <!--
 
 
