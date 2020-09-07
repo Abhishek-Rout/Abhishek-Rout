@@ -24,8 +24,8 @@
 <br/>
 👨‍🎓 I am Abhishek Rout, currently embarking on my B.E. journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br/>
 💻 I am a full-stack web developer, 💻 Data Science enthusiast, 📱Android enthusiast.<br/>
-🏆 6-star⭐️ Problem Solver at HackerRank and I am 2-star⭐️ coder at Codechef.  <br/>
-📝 I write tech affiliated articles on Medium and GeeksForGeeks. <br/>
+⭐️ 2-star coder at Codechef .  <br/>
+📝 I write tech affiliated articles on [Medium]() and GeeksForGeeks. <br/>
 💬 Ask me about anything.<br/>
 😄 Pronouns: He/His.
 🙌 <br />
@@ -34,6 +34,19 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&show_icons=true&hide_border=true)
 
+
+<a href="https://leetcode.com/abhishek_rout/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/abhishek_rout">
+  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://codeforces.com/profile/kothariji">
+  <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://codeforces.com/profile/abhishek_r_9690">
+  <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <!--
 
 
