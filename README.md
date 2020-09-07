@@ -1,4 +1,4 @@
-## Hola, I'm [Abhishek Rout!](http://abhishek-rout.github.io/) 👋
+## Hi, I'm [Abhishek Rout!](http://abhishek-rout.github.io/) 👋
 
 <a href="https://twitter.com/Abhishe27634796">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
