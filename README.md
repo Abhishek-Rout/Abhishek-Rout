@@ -1,5 +1,8 @@
 ## Hi, I'm [Abhishek Rout!](http://abhishek-rout.github.io/) 👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-rout&label=Views&color=blue&style=plastic" alt="abhishek-rout" /> </p>
+
 <a href="https://twitter.com/Abhishe27634796">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
