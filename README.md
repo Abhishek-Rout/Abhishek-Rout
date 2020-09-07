@@ -67,7 +67,7 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -84,8 +84,6 @@
 <br />
 
 ## Connect With Me
-
-<br />
 
 <a href="http://abhishek-rout.github.io/">
   <img align="left" alt="Abhishek's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
