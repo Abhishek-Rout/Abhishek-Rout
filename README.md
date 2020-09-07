@@ -12,6 +12,9 @@
 <a href="https://github.com/Abhishek-Rout">
   <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="abhishek.r.9690@gmail.com">
+  <img align="left" alt="Abhishek's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://t.me/Abhishek_Rout">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -39,9 +42,6 @@
 
 
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
-![Badge](https://cp-logo.vercel.app/codeforces/abhishek_rout)
-![Badge](https://cp-logo.vercel.app/leetcode/abhishek_rout)
-![Badge](https://cp-logo.vercel.app/hackerrank/abhishek_r_9690)
 
 <a href="https://leetcode.com/abhishek_rout/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
