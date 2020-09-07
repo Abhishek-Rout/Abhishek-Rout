@@ -21,23 +21,17 @@
 
 <br/>
 <br/>
-
 <!--
-
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
-
+![GitHub Logo](https://github.com/kothariji/.JPG)-->
+<br/>
+👨‍🎓I am Abhishek Rout, currently embarking on my B.E. journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br/>
+💻I am a **full-stack web developer** as well as an 📱**Android** enthusiast.<br />
+🏆🥇**6-star⭐️** Problem Solver at HackerRank and I am **2-star⭐️** coder at Codechef.  <br />
+📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
+💬 Ask me about anything.
+😄 Pronouns: He/His
+🙌 <br />
+<!--
 
 **Languages and Tools:**  
 
