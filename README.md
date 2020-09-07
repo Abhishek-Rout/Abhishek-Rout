@@ -21,18 +21,18 @@
 
 <br/>
 <br/>
-<!--
-![GitHub Logo](https://github.com/kothariji/.JPG)-->
 <br/>
 👨‍🎓I am Abhishek Rout, currently embarking on my B.E. journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br/>
-💻I am a **full-stack web developer** as well as an 📱**Android** enthusiast.<br />
-🏆🥇**6-star⭐️** Problem Solver at HackerRank and I am **2-star⭐️** coder at Codechef.  <br />
-📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
-💬 Ask me about anything.
-😄 Pronouns: He/His
+💻I am a **full-stack web developer** as well as an 📱**Android** enthusiast.<br/>
+🏆🥇**6-star⭐️** Problem Solver at HackerRank and I am **2-star⭐️** coder at Codechef.  <br/>
+📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br/>
+💬 Ask me about anything.<br/>
+😄 Pronouns: He/His.
 🙌 <br />
 <!--
 
+
+![GitHub Logo](https://github.com/kothariji/.JPG)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
