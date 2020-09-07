@@ -36,7 +36,6 @@
 <br />
 
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
-![Badge](https://cp-logo.vercel.app/leetcode/abhishek_r_9690)
 
 <br/>
 
