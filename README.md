@@ -15,8 +15,11 @@
 😄 Pronouns: He/His.
 🙌 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Competitive-Coding&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
 
 <a href="https://leetcode.com/abhishek_rout/">
