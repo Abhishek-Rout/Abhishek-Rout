@@ -57,7 +57,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
-<br />
 
 ## Some Repos you should visit: 🤔!
 
