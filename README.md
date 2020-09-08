@@ -15,33 +15,6 @@
 😄 Pronouns: He/His.
 🙌 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Competitive-Coding&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
-
-
-<a href="https://leetcode.com/abhishek_rout/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/abhishek_rout">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://codeforces.com/profile/abhishek_rout">
-  <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://hackerrank.com/profile/abhishek_r_9690">
-  <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
-<br />
-<br />
-
-![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
-
-<br/>
-
 ## </> Languages & ⚒ Tools:
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/60/000000/c-programming.png/" />
@@ -81,6 +54,35 @@
 <br />
 <br />
 <br />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Competitive-Coding&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+
+
+<a href="https://leetcode.com/abhishek_rout/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/abhishek_rout">
+  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://codeforces.com/profile/abhishek_rout">
+  <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://hackerrank.com/profile/abhishek_r_9690">
+  <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+<br />
+<br />
+
+![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
+
+<br/>
+
+
 
 ## Connect With Me
 
