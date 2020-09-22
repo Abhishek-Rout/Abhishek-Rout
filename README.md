@@ -10,8 +10,8 @@
 💻 I'm a **full-stack web developer, 💻 Data Science enthusiast, 📱Android enthusiast.**<br/>
 ⭐️ 2-star coder at **Codechef**.  <br/>
 📝 I write tech affiliated **articles** on <a href="https://medium.com/@abhishek.r.9690">Medium</a> and <a href="https://auth.geeksforgeeks.org/user/antminer/profile">GeeksForGeeks</a>. <br/>
-💬 Ask me about anything.<br/>
-😄 Pronouns: He/His.
+💬 Ask me about **anything.**<br/>
+😄 Pronouns: **He/His.**
 🙌 <br />
 
 ## </> Languages & 🛠 Tools I work upon :
