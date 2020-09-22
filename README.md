@@ -1,8 +1,7 @@
 
 ![WhatsApp Image 2020-09-07 at 2 16 32 PM](https://user-images.githubusercontent.com/64718836/92372981-5161db00-f11b-11ea-8092-1b4ef99678d3.jpeg)
 
-![Hello](Hello(1).gif)
-# [Abhishek Rout!](http://abhishek-rout.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![Hello](Hello(1).gif)[Abhishek Rout!](http://abhishek-rout.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-rout&label=Views&color=blue&style=plastic" alt="abhishek-rout" /> </p>
 
