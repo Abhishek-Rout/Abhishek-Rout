@@ -21,7 +21,6 @@
 
 <br />
 <br />
-<br />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 ![MostUsedLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&title_color=00c3ff&text_color=00c3ff&bg_color=191919)
