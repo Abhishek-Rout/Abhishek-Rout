@@ -14,7 +14,7 @@
 😄 Pronouns: He/His.
 🙌 <br />
 
-## </> Languages & ⚒ Tools:
+## </> Languages & 🛠 Tools:
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/60/000000/c-programming.png/" />
 
