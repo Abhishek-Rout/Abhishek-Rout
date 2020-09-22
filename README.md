@@ -48,7 +48,6 @@
 
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
 
-<br/>
 
 ## Connect With Me
 
