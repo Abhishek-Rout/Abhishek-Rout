@@ -62,9 +62,6 @@
 <a href="https://github.com/Abhishek-Rout">
   <img align="left" alt="Abhishek's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.abhishek.r.9690@gmail.com">
-  <img align="left" alt="Abhishek's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <a href="https://t.me/Abhishek_Rout">
   <img align="left" alt="Abhishek's Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -74,6 +71,8 @@
 <a href="https://www.youtube.com/channel/UC6VvQ29rdFfriaOAdRKpICA">
   <img align="left" alt="Abhishek's Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
+<img align="left" alt="Abhishek's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />https://www.abhishek.r.9690@gmail.com
 
 <br />
 <br />
