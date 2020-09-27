@@ -11,9 +11,11 @@
 ⭐️ 2-star coder at **Codechef**.  <br/>
 📝 I write tech affiliated **articles** on <a href="https://medium.com/@abhishek.r.9690">Medium</a> and <a href="https://auth.geeksforgeeks.org/user/antminer/profile">GeeksForGeeks</a>. <br/>
 💬 Ask me about **anything.**<br/>
-😄 Pronouns: **He/His.**🙌 
+😄 Pronouns: **He/His.** 
+🙌 
 
-<img align="left" alt="Abhishek's Mail" width="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />Mail : https://www.abhishek.r.9690@gmail.com
+<img align="center" alt="Abhishek's Mail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />**Mail :** https://www.abhishek.r.9690@gmail.com 
+
 <br />
 
 ## </> Languages & 🛠 Tools I work upon :
