@@ -12,7 +12,7 @@
 📝 I write tech affiliated **articles** on <a href="https://medium.com/@abhishek.r.9690">Medium</a> and <a href="https://auth.geeksforgeeks.org/user/antminer/profile">GeeksForGeeks</a>. <br/>
 💬 Ask me about **anything.**<br/>
 😄 Pronouns: **He/His.**   🙌 <br/>
-:mailbox: Reach me at : **Mail** https://www.abhishek.r.9690@gmail.com 
+:mailbox: Reach me at : **Mail :** https://www.abhishek.r.9690@gmail.com 
 
 <br />
 
