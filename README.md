@@ -31,6 +31,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Face-Recognition&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Platforms: 
 
 <a href="https://leetcode.com/abhishek_rout/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -48,7 +49,7 @@
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
 
 
-### Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Connect With Me:
 
 <a href="http://abhishek-rout.github.io/">
   <img align="left" alt="Abhishek's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
