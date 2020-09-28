@@ -48,7 +48,7 @@
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
 
 
-### Connect With Me
+### Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <a href="http://abhishek-rout.github.io/">
   <img align="left" alt="Abhishek's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
