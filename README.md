@@ -60,9 +60,6 @@
 <a href="https://linkedin.com/in/abhishek-rout-032330192/">
   <img align="left" alt="Abhishek's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Abhishek-Rout">
-  <img align="left" alt="Abhishek's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://t.me/Abhishek_Rout">
   <img align="left" alt="Abhishek's Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
