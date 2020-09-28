@@ -20,18 +20,18 @@
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=FFD43B">   <img src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=787CB5">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=3FA037">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img src="https://img.shields.io/badge/android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=4DB33D">   <img src="https://img.shields.io/badge/kotlin%20-%2320232a.svg?&style=for-the-badge&logo=kotlin&logoColor=5b39c6">    <img src="https://img.shields.io/badge/sublime text%20-%2320232a.svg?&style=for-the-badge&logo=sublime-text&logoColor=FF9800">   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">   <img src="http://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">   
 
 
-### &#x1f4c8; GitHub Stats:
+### &#x1f4c8; GitHub Stats :
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919" alt="my github stats" width="420">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&title_color=00c3ff&text_color=00c3ff&bg_color=191919" alt="languages" height="165">
 </p>
 
-### Some Repos you should visit: 🤔!
+### Some Repos you should visit : 🤔!
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Face-Recognition&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Platforms: 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Platforms : 
 
 <a href="https://leetcode.com/abhishek_rout/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -49,7 +49,7 @@
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Connect With Me:
+### Connect With Me : <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <a href="http://abhishek-rout.github.io/">
   <img align="left" alt="Abhishek's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
