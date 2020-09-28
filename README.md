@@ -24,18 +24,18 @@
 <hr>
 
 ### &#x1f4c8; GitHub Stats:
-<br>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919" alt="my github stats" width="420">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&title_color=00c3ff&text_color=00c3ff&bg_color=191919" alt="languages" height="165">
 </p>
+
+<hr>
 
 ### Some Repos you should visit: 🤔!
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Face-Recognition&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
-<br />
 
 <hr>
 
@@ -49,7 +49,6 @@
   <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<br />
 <br />
 
 ![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)
