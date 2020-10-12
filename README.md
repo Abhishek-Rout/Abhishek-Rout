@@ -8,7 +8,7 @@
 👨‍🎓 I am Abhishek Rout, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
 🌱 I’m currently learning **MERN, Machine Learning, A.I. , Competitive Coding.**<br />
 💻 I'm a **Full-Stack Web Developer, 💻 Data Science enthusiast, 📱Android enthusiast.**<br/>
-⭐️ 2-star coder at **Codechef**.  <br/>
+⭐️ **3 star** coder at **Codechef**.  <br/>
 📝 I write tech affiliated **articles** on <a href="https://medium.com/@abhishek.r.9690">Medium</a> and <a href="https://auth.geeksforgeeks.org/user/antminer/profile">GeeksForGeeks</a>. <br/>
 💬 Ask me about **anything.**<br/>
 😄 Pronouns: **He/His.**   🙌 <br/>
