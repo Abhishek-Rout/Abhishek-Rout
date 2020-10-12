@@ -42,7 +42,9 @@
 <a href="https://hackerrank.com/profile/abhishek_r_9690">
   <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<a href="https://auth.geeksforgeeks.org/user/antminer">
+  <img align="left" alt="Abhishek's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
 <br />
 <br />
 
