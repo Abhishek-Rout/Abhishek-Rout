@@ -26,10 +26,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek-rout&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919" alt="my github stats" width="420">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&title_color=00c3ff&text_color=00c3ff&bg_color=191919" alt="languages" height="165">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-rout&margin-w=25)](https://github.com/abhishek-rout/github-profile-trophy)
+
+
 ### Some Repos you should visit : 🤔!
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Face-Recognition&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Platforms I use : 
 
