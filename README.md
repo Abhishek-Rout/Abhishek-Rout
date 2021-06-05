@@ -37,6 +37,9 @@
 
 ### Connect With Me : 
 
+<a href="http://abhishek-rout.github.io/" target="blank" target="blank">
+  <img align="left" alt="Abhishek's Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 <a href="https://leetcode.com/abhishek_rout/" target="blank">
   <img align="left" alt="Abhishek's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -50,10 +53,7 @@
   <img align="left" alt="Abhishek's GFG" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
 <a href="https://medium.com/@abhishek.r.9690" target="blank" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhishek.r.9690" width="30" />
-</a>
-<a href="http://abhishek-rout.github.io/" target="blank" target="blank">
-  <img align="left" alt="Abhishek's Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhishek.r.9690" width="30" />
 </a>
 <a href="https://twitter.com/Abhishe27634796" target="blank" target="blank">
   <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
