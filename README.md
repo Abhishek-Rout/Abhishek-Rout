@@ -37,36 +37,36 @@
 
 ### Connect With Me : 
 
-<a href="http://abhishek-rout.github.io/" target="blank" target="blank">
+<a href="http://abhishek-rout.github.io/" target="_blank">
   <img align="left" alt="Abhishek's Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://leetcode.com/abhishek_rout/" target="blank">
+<a href="https://leetcode.com/abhishek_rout/" target="_blank">
   <img align="left" alt="Abhishek's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/abhishek_rout" target="blank">
+<a href="https://www.codechef.com/users/abhishek_rout" target="_blank">
   <img align="left" alt="Abhishek's Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://hackerrank.com/profile/abhishek_r_9690" target="blank">
+<a href="https://hackerrank.com/profile/abhishek_r_9690" target="_blank">
   <img align="left" alt="Abhishek's HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/antminer" target="blank">
+<a href="https://auth.geeksforgeeks.org/user/antminer" target="_blank">
   <img align="left" alt="Abhishek's GFG" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
-<a href="https://medium.com/@abhishek.r.9690" target="blank" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhishek.r.9690" width="30" />
+<a href="https://medium.com/@abhishek.r.9690" target="blank" target="_blank">
+  <img align="left" alt="Abhishek's Medium" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/Abhishe27634796" target="blank" target="blank">
+<a href="https://twitter.com/Abhishe27634796" target="blank" target="_blank">
   <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/abhishek-rout-032330192/" target="blank">
+<a href="https://linkedin.com/in/abhishek-rout-032330192/" target="_blank">
   <img align="left" alt="Abhishek's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Abhishek_Rout" target="blank">
+<a href="https://t.me/Abhishek_Rout" target="_blank">
   <img align="left" alt="Abhishek's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/abhishek.rout.1829/" target="blank">
+<a href="https://www.facebook.com/abhishek.rout.1829/" target="_blank">
   <img align="left" alt="Abhishek's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a onclick="window.open('mailto:abhishek.r.9690@gmail.com')">
+<a onclick="window.open('mailto:abhishek.r.9690@gmail.com')" target="_blank">
   <img align="left" alt="Abhishek's Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
