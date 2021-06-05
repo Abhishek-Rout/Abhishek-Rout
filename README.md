@@ -32,8 +32,10 @@
 </p>
 
 ### &#x1f4c8; GitHub Stats :
-
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rout&" alt="Abhishek Rout" />
+<p align="left">
+  <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rout&" alt="Abhishek Rout" width="35%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhishek-rout&theme=react-dark&bg_color=#000&hide_border=true" width="60%"/>
+</p>
 
 ### Connect With Me : 
 
