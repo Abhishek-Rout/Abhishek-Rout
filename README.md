@@ -7,10 +7,11 @@
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 📫 Email me at: <a onclick="window.open('mailto:abhishek.r.9690@gmail.com')" target="_blank">abhishek.r.9690@gmail.com</a><br />
 
+[![@AbhishekRout's Holopin board](https://www.holopin.me/abhishekrout)](https://holopin.io/@abhishekrout)
+
 
 #### Total Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/abhishek-rout/count.svg)
-
 
 [![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)](https://www.codechef.com/users/abhishek_rout)
 
