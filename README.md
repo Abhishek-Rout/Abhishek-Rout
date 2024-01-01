@@ -6,20 +6,13 @@
 🏆🥇I love **competitive programming**. I am **2-star⭐️** coder at Codechef.<br />
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 📫 Email me at: <a onclick="window.open('mailto:abhishek.r.9690@gmail.com')" target="_blank">abhishek.r.9690@gmail.com</a><br />
+</br>
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Rout&label=Profile%20views&color=0e75b6&style=flat)  [![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)](https://www.codechef.com/users/abhishek_rout)
 
 [![@AbhishekRout's Holopin board](https://www.holopin.me/abhishekrout)](https://holopin.io/@abhishekrout)
 
-
-#### Total Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/abhishek-rout/count.svg)
-
-[![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)](https://www.codechef.com/users/abhishek_rout)
-
-
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Rout&show_icons=true)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rout"/>|
 |---|---|
- 
- 
 
 ## Connect with me  
 <div align="center">
