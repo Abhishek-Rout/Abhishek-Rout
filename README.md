@@ -31,6 +31,9 @@
 <a href="https://auth.geeksforgeeks.org/user/antminer" target="_blank">
 <img src=https://img.shields.io/badge/geeksforgeeks-%2f8d46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 </a>
+<a href="https://stackoverflow.com/users/16102573/abhishek-rout" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.facebook.com/abhishek.rout.1829/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
