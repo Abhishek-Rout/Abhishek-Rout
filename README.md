@@ -24,7 +24,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.abhishek_rout)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.r.9690@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/antminer)
-[![Medium Badge](https://img.shields.io/badge/Medium-23292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishek.r.9690)
+[![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishek.r.9690)
 
 ---
 
@@ -57,24 +57,20 @@
 
 ### My Github Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rout&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abhishek Rout's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Rout&theme=algolia" alt="Abhishek-Rout" />
-</p>
+![Abhishek Rout's GitHub status](https://github-readme-stats.vercel.app/api?username=Abhishek-Rout&show_icons=true&include_all_commits=true&hide_border=true)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Rout)
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+![Top Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Rout&layout=compact&hide_border=true&&langs_count=10)
 
 ---
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/Abhishek-Rout"><img alt="Check out Abhishek-Rout's profile on stardev.io" src="https://stardev.io/developers/Abhishek-Rout/badge/languages/locality.svg" /></a>
+[![Check out Abhishek-Rout's profile on stardev.io](https://stardev.io/developers/Abhishek-Rout/badge/languages/locality.svg)](https://stardev.io/developers/Abhishek-Rout)
 
 ---
 
