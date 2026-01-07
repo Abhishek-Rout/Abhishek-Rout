@@ -5,7 +5,7 @@
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
+- 🥅 2026 Goals: Learn Microfrontend and Microservices/Monolith -- System design.
 - 📝 I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
