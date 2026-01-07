@@ -9,6 +9,9 @@
 - 📝 I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
+![Random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Rout&color=brightgreen) [![Badge](https://cp-logo.vercel.app/codechef/abhishek_rout)](https://www.codechef.com/users/abhishek_rout)
@@ -58,7 +61,7 @@
 
 ### My Github Stats:
 
-![Abhishek Rout's GitHub status](https://github-readme-stats.vercel.app/api?username=Abhishek-Rout&show_icons=true&include_all_commits=true&hide_border=true)
+![Abhishek Rout's GitHub status](https://nirzak-streak-stats.vercel.app/?user=Abhishek-Rout&theme=default&hide_border=false)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Rout)
 
 ---
